@@ -1,0 +1,13 @@
+{
+  "name": "hrms-lite",
+  "version": "1.0.0",
+  "description": "HRMS Lite - Lightweight Human Resource Management System",
+  "scripts": {
+    "dev:server": "cd server && npm run dev",
+    "dev:client": "cd client && npm run dev",
+    "install:all": "cd server && npm install && cd ../client && npm install",
+    "build:client": "cd client && npm run build"
+  },
+  "keywords": ["hrms", "mern", "fullstack"],
+  "license": "MIT"
+}
