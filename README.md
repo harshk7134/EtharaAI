@@ -4,8 +4,8 @@ A lightweight Human Resource Management System built with the MERN stack (MongoD
 
 ## Live Demo
 
-- **Frontend**: _[Add Vercel URL after deployment]_
-- **Backend API**: _[Add Render URL after deployment]_
+- **Frontend**: _[Live URL](https://ethara-ai-drab.vercel.app/)_
+- **Backend API**: _[API Base URL](https://etharaai-rfwg.onrender.com)_
 
 ## Features
 
